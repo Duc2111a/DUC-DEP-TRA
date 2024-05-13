@@ -9,7 +9,7 @@ function App() {
   return (
     <center>
 
-    <h1> Duc dep trai gap {2*5} lan tien</h1>
+    <h1 className='demo'>Chung toi don duc ngu gian la gau</h1>
 
     </center>
   );
